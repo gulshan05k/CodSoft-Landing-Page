@@ -288,3 +288,23 @@ explore{
         padding: 10px;
     }
 }
+
+/* Animation */
+img{
+    transition: transform .3s ease;
+}
+img:hover{
+    transform: scale(1.1);
+}
+    .ctn:hover{
+        background: whitesmoke;
+        color: #fc036b;
+        box-shadow: 2px 2px 5px black;
+    }
+    li:hover{
+        color: #fc036b;
+        cursor: pointer;
+    }
+    .nav-links{
+        list-style: none;
+    }
