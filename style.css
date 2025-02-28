@@ -163,3 +163,19 @@ explore{
 .explore-content h1{
     font-size: 7vmin;
 }
+
+.explore-content .line{
+    margin-bottom: 50px;
+}
+
+.explore-content p{
+    color: rgb(221, 221, 221);
+}
+
+.explore-content .ctn{
+    margin-top: 40px;
+}
+
+.content-col{
+    width: 40%;
+}
