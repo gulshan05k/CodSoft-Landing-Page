@@ -12,3 +12,14 @@ a{
 ul{
     list-style: none;
 }
+
+/*List  */
+.active{
+    color: #fc036b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body , html {
+    overflow-x: hidden;
+}
