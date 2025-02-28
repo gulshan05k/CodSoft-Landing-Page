@@ -75,3 +75,16 @@ header{
     margin: 10px auto;
     border-radius: 5px;
 }
+
+.header-content h1{
+    font-size: 7vmin;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.ctn{
+    padding: 8px 15px;
+    background: #fc036b;
+    border-radius: 30px;
+    color: whitesmoke;
+}
