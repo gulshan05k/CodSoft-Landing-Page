@@ -195,3 +195,21 @@ explore{
     max-width: 300px;
     margin: 10px;
 }
+
+.content-col h1{
+    font-size: 7vmin;
+    color: #484872;
+}
+
+.content-col .line{
+    margin-left: -1px;
+}
+
+.content-col p{
+    padding: 0;
+    margin: 30px auto;
+}
+
+.content-col .ctn{
+    margin-left: -100px;
+}
